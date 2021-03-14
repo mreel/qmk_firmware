@@ -1,1 +1,8 @@
+// Tap Dance
 #define TAPPING_TERM 175
+
+// RGB
+#undef RGBLIGHT_ANIMATIONS
+#define RGBLIGHT_HUE_STEP 2
+#define RGBLIGHT_SAT_STEP 2
+#define RGBLIGHT_VAL_STEP 2
